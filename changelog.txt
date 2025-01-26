@@ -1,0 +1,6 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 26. 01. 2025
+  Features:
+    - Initial release.
+    - Adding fuel values and vehicle acceleration/top speed bonus to all the base game science packs.
